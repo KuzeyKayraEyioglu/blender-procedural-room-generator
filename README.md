@@ -13,8 +13,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
----
-
 Create editable procedural rooms in Blender in under 1 minute.
 
 A Blender add-on for generating editable procedural rooms with customizable walls, floors, roofs, openings, frames, lighting, and materials.
