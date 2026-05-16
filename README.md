@@ -66,6 +66,18 @@ You can now create rooms like this in under 1 minute.
 
 # v1.0.0
 
+## 🎥 V1.0.0 Showcase Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=IJL7FhvlWYg">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="800">
+  </a>
+</p>
+
+<p align="center">
+  Click the image to watch the V1.0.0 showcase video
+</p>
+
 ## New Features
 - Editable Procedural Room Generation
 - Custom Room Width, Depth & Height
