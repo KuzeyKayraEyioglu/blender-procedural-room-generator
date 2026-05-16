@@ -115,28 +115,28 @@ This project is licensed under the MIT License.
 
 ---
 
----
-
 # Connect With Me
 
 <p align="center">
-  <a href="https://github.com/KuzeyKayraEyioğlu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90"/>
+  <a href="https://github.com/KuzeyKayraEyioglu">
+    <img src="https://skillicons.dev/icons?i=github" width="100"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="90"/>
+  <a href="https://www.youtube.com/@KuzeyKayraEyioglu">
+    <img src="https://skillicons.dev/icons?i=youtube" width="100"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KuzeyKayraEyioğlu">
+  <a href="https://github.com/KuzeyKayraEyioglu">
     GitHub
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@KuzeyKayraEyioglu">
     YouTube
   </a>
 </p>
