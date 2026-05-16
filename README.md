@@ -1,33 +1,79 @@
 # Procedural Room Generator
 
-A Blender add-on for generating editable procedural rooms.
+A Blender add-on for generating editable procedural rooms with customizable walls, floors, roofs, openings, frames, lighting, and materials.
+
+---
 
 ## Downloads
 
 ### Latest Version (Recommended)
-- [Download v1.1.0](../../raw/main/procedural_room_generator_v1_1.py)
+- [Download v1.1.0](../../releases/tag/v1.1.0)
 
 ### Older Versions
-- [Download v1.0.0](../../raw/main/procedural_room_generator_v1_0.py)
+- [Download v1.0.0](../../releases/tag/v1.0.0)
 
-## Changelog
+---
 
-### v1.1.0
+# Changelog
 
-#### New Features
+# v1.1.0
+
+## New Features
+- Roof System
+- Pyramid Roof
+- Cone Roof
 - Door Frames
 - Window Frames
 - Procedural Doors
 - Window Lighting
 - Procedural Materials
 - Material Customization
+- Custom Material Colors
+- Smoothness & Metallic Controls
+
+## Improvements
+- Better procedural room workflow
+- Improved room customization
+- Better procedural generation
+- Improved lighting system
+- Better room visuals
+- More realistic room creation
 
 You can now create rooms like this in under 1 minute.
 
+### Example (v1.1)
+
 ![v1.1 Showcase](./v1_1_showcase.png)
 
-### v1.0.0
-Initial procedural room generator release.
+🔗 [See v1.1 Code](./procedural_room_generator_v1_1.py)
+
+---
+
+# v1.0.0
+
+## New Features
+- Editable Procedural Room Generation
+- Custom Room Width, Depth & Height
+- Wall Thickness Customization
+- Floor Openings
+- Wall Openings
+- Multiple Opening Shapes
+- Real-Time Room Updates
+
+## Improvements
+- Faster room creation workflow
+- Easier procedural room editing
+- Editable procedural system
+
+Basic procedural room generation.
+
+### Example (v1.0)
+
+![v1.0 Showcase](./v1_0_showcase.png)
+
+🔗 [See v1.0 Code](./procedural_room_generator_v1_0.py)
+
+---
 
 ## Installation
 
@@ -41,3 +87,16 @@ Edit > Preferences > Add-ons > Install
 
 4. Select the downloaded `.py` file
 5. Enable the add-on
+
+---
+
+## Requirements
+
+- Blender 4.0+
+- Python (included with Blender)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
