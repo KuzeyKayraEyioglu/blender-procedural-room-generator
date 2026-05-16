@@ -1,5 +1,10 @@
 # Procedural Room Generator
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+</p>
+
 ![Version](https://img.shields.io/badge/version-v1.1.0-orange?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-4.0+-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
@@ -114,6 +119,14 @@ This project is licensed under the MIT License.
 
 Created by **Kuzey Kayra Eyioğlu**
 
-- GitHub: [@KuzeyKayraEyioglu](https://github.com/KuzeyKayraEyioglu)
-- YouTube: [@KuzeyKayraEyioğlu](https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu)
+<p align="left">
+  <a href="https://github.com/KuzeyKayraEyioğlu">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="35"/>
+  </a>
+
+  <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35"/>
+  </a>
+</p>
+
 - Interests: Programming, Blender Add-ons, Game Development, Robotics
