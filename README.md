@@ -69,8 +69,8 @@ You can now create rooms like this in under 1 minute.
 ## 🎥 V1.0.0 Showcase Video
 
 <p align="center">
-  <a href="YOUTUBE_VIDEO_LINK">
-    <img src="v1_0_showcase.png" width="900" alt="V1.0.0 Showcase">
+  <a href="https://www.youtube.com/watch?v=IJL7FhvlWYg">
+    <img src="v1_0_video_showcase.png" width="900" alt="V1.0.0 Showcase">
   </a>
 </p>
 
