@@ -75,7 +75,7 @@ You can now create rooms like this in under 1 minute.
 </p>
 
 <p align="center">
-  Click the image to watch the V1.0.0 showcase video on YouTube
+  ▶ Click the image to watch the showcase
 </p>
 
 ## New Features
