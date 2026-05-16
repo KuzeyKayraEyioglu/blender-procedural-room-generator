@@ -68,7 +68,15 @@ You can now create rooms like this in under 1 minute.
 
 ## 🎥 V1.0.0 Showcase Video
 
-[▶ Watch V1.0.0 Showcase Video](https://github.com/KuzeyKayraEyioglu/blender-procedural-room-generator/raw/main/v1.0.0.mp4)
+<p align="center">
+  <a href="YOUTUBE_VIDEO_LINK">
+    <img src="v1_0_showcase.png" width="900" alt="V1.0.0 Showcase">
+  </a>
+</p>
+
+<p align="center">
+  Click the image to watch the V1.0.0 showcase video on YouTube
+</p>
 
 ## New Features
 - Editable Procedural Room Generation
