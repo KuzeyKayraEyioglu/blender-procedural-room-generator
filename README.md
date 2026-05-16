@@ -120,12 +120,12 @@ This project is licensed under the MIT License.
 Created by **Kuzey Kayra Eyioğlu**
 
 <p align="left">
-  <a href="https://github.com/KuzeyKayraEyioğlu">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="35"/>
+  <a href="https://github.com/KuzeyKayraEyioglu">
+    <img src="https://skillicons.dev/icons?i=github" width="55"/>
   </a>
 
   <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="35"/>
+    <img src="https://skillicons.dev/icons?i=youtube" width="55"/>
   </a>
 </p>
 
