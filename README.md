@@ -1,37 +1,29 @@
 # Procedural Room Generator
 
-A Blender add-on for generating editable procedural rooms with customizable walls, floors, and openings.
+A Blender add-on for generating editable procedural rooms.
 
-## Features
+## Downloads
 
-- Triangle, Square, Pentagon, and Hexagon room generation
-- Editable room width, depth, height, and thickness
-- Floor and wall openings
-- Multiple opening shapes:
-  - Square
-  - Round
-  - Triangle
-  - Pentagon
-  - Hexagon
-- Real-time room updates
+### Latest Version (Recommended)
+- **v1.1.0**
+  - `procedural_room_generator_v1_1.py`
 
-## Installation
+### Older Versions
+- **v1.0.0**
+  - `procedural_room_generator_v1_0.py`
 
-1. Download the `.py` file
-2. Open Blender
-3. Go to:
+## Changelog
 
-```text
-Edit > Preferences > Add-ons > Install
-```
+### v1.1.0
+New Features:
+- Door Frames
+- Window Frames
+- Procedural Doors
+- Window Lighting
+- Procedural Materials
+- Material Customization
 
-4. Select the add-on file
-5. Enable the add-on
+You can now create rooms like this in under 1 minute.
 
-## Usage
-
-Open the **Generator** tab in the Blender Sidebar and create procedural rooms.
-
-## Author
-
-Kuzey Kayra Eyioğlu
+### v1.0.0
+Initial procedural room generator release.
