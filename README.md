@@ -68,8 +68,8 @@ You can now create rooms like this in under 1 minute.
 
 <h2>🎥 V1.0.0 Showcase Video</h2>
 
-<video width="900" controls>
-  <source src="./v1.0.0.mp4" type="video/mp4">
+<video controls width="900">
+  <source src="https://github.com/KuzeyKayraEyioglu/blender-procedural-room-generator/raw/main/v1.0.0.mp4" type="video/mp4">
 </video>
 
 ## New Features
