@@ -108,5 +108,5 @@ This project is licensed under the MIT License.
 Created by **Kuzey Kayra Eyioğlu**
 
 - GitHub: [@KuzeyKayraEyioğlu](https://github.com/KuzeyKayraEyioğlu)
-- YouTube: [Your Channel Name](https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu)
+- YouTube: [@KuzeyKayraEyioğlu](https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu)
 - Interests: Programming, Blender Add-ons, Game Development, Robotics
