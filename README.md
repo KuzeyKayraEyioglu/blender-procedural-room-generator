@@ -5,10 +5,10 @@ A Blender add-on for generating editable procedural rooms.
 ## Downloads
 
 ### Latest Version (Recommended)
-- [Download v1.1.0](./procedural_room_generator_v1_1.py)
+- [Download v1.1.0](../../raw/main/procedural_room_generator_v1_1.py)
 
 ### Older Versions
-- [Download v1.0.0](./procedural_room_generator_v1_0.py)
+- [Download v1.0.0](../../raw/main/procedural_room_generator_v1_0.py)
 
 ## Changelog
 
@@ -23,6 +23,8 @@ A Blender add-on for generating editable procedural rooms.
 - Material Customization
 
 You can now create rooms like this in under 1 minute.
+
+![v1.1 Showcase](./v1_1_showcase.png)
 
 ### v1.0.0
 Initial procedural room generator release.
