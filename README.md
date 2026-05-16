@@ -1,5 +1,10 @@
 # Procedural Room Generator
 
+![Version](https://img.shields.io/badge/version-v1.1.0-orange)
+![Blender](https://img.shields.io/badge/Blender-4.0+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/Python-100%25-yellow)
+
 A Blender add-on for generating editable procedural rooms with customizable walls, floors, roofs, openings, frames, lighting, and materials.
 
 ---
@@ -85,7 +90,7 @@ Basic procedural room generation.
 Edit > Preferences > Add-ons > Install
 ```
 
-4. Select the downloaded `.py` file
+4. Select the downloaded `.py` file  
 5. Enable the add-on
 
 ---
