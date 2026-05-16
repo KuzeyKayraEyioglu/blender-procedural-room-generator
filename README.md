@@ -115,18 +115,36 @@ This project is licensed under the MIT License.
 
 ---
 
+---
+
+# Connect With Me
+
+<p align="center">
+  <a href="https://github.com/KuzeyKayraEyioğlu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="90"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KuzeyKayraEyioğlu">
+    GitHub
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
+    YouTube
+  </a>
+</p>
+
+---
+
 ## Author
 
 Created by **Kuzey Kayra Eyioğlu**
-
-<p align="left">
-  <a href="https://github.com/KuzeyKayraEyioglu">
-    <img src="https://skillicons.dev/icons?i=github" width="55"/>
-  </a>
-
-  <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
-    <img src="https://skillicons.dev/icons?i=youtube" width="55"/>
-  </a>
-</p>
 
 - Interests: Programming, Blender Add-ons, Game Development, Robotics
