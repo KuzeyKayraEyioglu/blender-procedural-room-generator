@@ -1,9 +1,11 @@
 # Procedural Room Generator
 
-![Version](https://img.shields.io/badge/version-v1.1.0-orange)
-![Blender](https://img.shields.io/badge/Blender-4.0+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Python](https://img.shields.io/badge/Python-100%25-yellow)
+![Version](https://img.shields.io/badge/version-v1.1.0-orange?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-4.0+-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-100%25-yellow?style=for-the-badge)
+
+Create editable procedural rooms in Blender in under 1 minute.
 
 A Blender add-on for generating editable procedural rooms with customizable walls, floors, roofs, openings, frames, lighting, and materials.
 
