@@ -33,7 +33,7 @@ A Blender add-on for generating editable procedural rooms with customizable wall
 
 # v1.1.0
 
-## 🎥 V1.0.0 Showcase Video
+## 🎥 V1.1.0 Showcase Video
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=7XABYS6gubk">
