@@ -1,39 +1,54 @@
 # Procedural Room Generator
 
+<p align="center">
+  <img src="v1_1_showcase.png" width="900"/>
+</p>
+
+<p align="center">
+Create editable procedural rooms in Blender in under 1 minute.
+</p>
+
+<p align="center">
+
 ![Version](https://img.shields.io/badge/version-v1.1.0-orange?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-4.0+-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-100%25-yellow?style=for-the-badge)
 
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
-Create editable procedural rooms in Blender in under 1 minute.
-
-A Blender add-on for generating editable procedural rooms with customizable walls, floors, roofs, openings, frames, lighting, and materials.
-
----
-
-## Downloads
-
-### Latest Version (Recommended)
-- [Download v1.1.0](../../releases/tag/v1.1.0)
-
-### Older Versions
-- [Download v1.0.0](../../releases/tag/v1.0.0)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
 
 ---
 
-# Changelog
+## About
 
-# v1.1.0
+Creating procedural rooms manually in Blender can take a lot of time, especially when building repeated layouts.
 
-## 🎥 V1.1.0 Showcase Video
+I created **Procedural Room Generator** to make room creation faster, easier, and more customizable while keeping everything editable.
+
+Generate procedural rooms with:
+
+- Editable walls
+- Floors
+- Roof systems
+- Doors & windows
+- Frames
+- Lighting
+- Procedural materials
+- Material customization
+
+All directly inside Blender.
+
+---
+
+## 🎥 Showcase Video
+
+### v1.1.0 Showcase
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=7XABYS6gubk">
@@ -42,31 +57,55 @@ A Blender add-on for generating editable procedural rooms with customizable wall
 </p>
 
 <p align="center">
-  ▶ Click the image to watch the showcase
+▶ Click the image to watch the showcase
 </p>
 
-## New Features
+---
+
+## Downloads
+
+### Latest Version (Recommended)
+
+- [Download v1.1.0](../../releases/tag/v1.1.0)
+
+### Older Versions
+
+- [Download v1.0.0](../../releases/tag/v1.0.0)
+
+---
+
+# Changelog
+
+## v1.1.0
+
+### ✨ New Features
+
+#### 🏠 Roof System
 - Roof System
 - Pyramid Roof
 - Cone Roof
+
+#### 🚪 Doors & Windows
 - Door Frames
 - Window Frames
 - Procedural Doors
+
+#### 💡 Lighting
 - Window Lighting
+
+#### 🎨 Materials
 - Procedural Materials
 - Material Customization
 - Custom Material Colors
 - Smoothness & Metallic Controls
 
-## Improvements
+### 🔧 Improvements
 - Better procedural room workflow
 - Improved room customization
 - Better procedural generation
 - Improved lighting system
 - Better room visuals
 - More realistic room creation
-
-You can now create rooms like this in under 1 minute.
 
 ### Example (v1.1)
 
@@ -76,21 +115,9 @@ You can now create rooms like this in under 1 minute.
 
 ---
 
-# v1.0.0
+## v1.0.0
 
-## 🎥 V1.0.0 Showcase Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=IJL7FhvlWYg">
-    <img src="v1_0_video_showcase.png" width="900" alt="V1.0.0 Showcase">
-  </a>
-</p>
-
-<p align="center">
-  ▶ Click the image to watch the showcase
-</p>
-
-## New Features
+### ✨ Features
 - Editable Procedural Room Generation
 - Custom Room Width, Depth & Height
 - Wall Thickness Customization
@@ -99,12 +126,10 @@ You can now create rooms like this in under 1 minute.
 - Multiple Opening Shapes
 - Real-Time Room Updates
 
-## Improvements
+### 🔧 Improvements
 - Faster room creation workflow
 - Easier procedural room editing
 - Editable procedural system
-
-Basic procedural room generation.
 
 ### Example (v1.0)
 
