@@ -33,6 +33,18 @@ A Blender add-on for generating editable procedural rooms with customizable wall
 
 # v1.1.0
 
+## 🎥 V1.0.0 Showcase Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=7XABYS6gubk">
+    <img src="v1_1_video_showcase.png" width="900" alt="V1.1.0 Showcase">
+  </a>
+</p>
+
+<p align="center">
+  ▶ Click the image to watch the showcase
+</p>
+
 ## New Features
 - Roof System
 - Pyramid Roof
