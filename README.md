@@ -1,7 +1,7 @@
 # Procedural Room Generator
 
 <p align="center">
-  <img src="v1_1_showcase.png" width="900"/>
+  <img src="v1.1.0_Gif.gif" width="900"/>
 </p>
 
 <p align="center">
