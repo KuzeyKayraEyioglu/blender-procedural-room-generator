@@ -1,4 +1,4 @@
-# Procedural Room Generato
+# Procedural Room Generator
 
 <p align="center">
   <img src="V1.1.0_Gif.gif" width="900"/>
